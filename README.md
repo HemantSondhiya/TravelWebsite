@@ -1,4 +1,4 @@
-TravelVista is a responsive and interactive travel booking platform developed using React.js. It offers users an intuitive interface to explore destinations, view detailed information, and make bookings seamlessly.
+TravelWebsite is a responsive and interactive travel booking platform developed using React.js. It offers users an intuitive interface to explore destinations, view detailed information, and make bookings seamlessly.
 Frontend: React.js, HTML5, CSS3, JavaScript ES6+
 
 Technologies Used:
