@@ -1,0 +1,129 @@
+/* Ticket Booking Page */
+.ticket-booking {
+    padding: 50px;
+    background-color: #f9f9f9;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .ticket-booking h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+  }
+  
+  .tour-selection {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .tour-selection label {
+    font-size: 1.2rem;
+    margin-right: 10px;
+  }
+  
+  .tour-selection select {
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .package-details {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: white;
+  }
+  
+  .package-image {
+    width: 30%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-right: 20px;
+  }
+  
+  .package-info {
+    width: 70%;
+  }
+  
+  .package-info h3 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .package-info p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  .booking-form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    font-size: 1rem;
+    color: #333;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .cta-button {
+    background-color: #00bcd4;
+    color: white;
+    padding: 12px 25px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    text-transform: uppercase;
+    width: 100%;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #0097a7;
+  }
+  
+  .cta-button:disabled {
+    background-color: #ddd;
+    cursor: not-allowed;
+  }
+  
+  /* Success Message */
+  .booking-success {
+    text-align: center;
+    padding: 50px;
+    background-color: #e7f9e7;
+    border: 2px solid #00bcd4;
+    border-radius: 10px;
+  }
+  
+  .booking-success h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .booking-success p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
